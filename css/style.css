@@ -1,0 +1,17 @@
+#home {
+    background-image: url(pizza_1.jpg);
+    background-size: cover;
+    text-align: center;   
+    height:30vh;
+    color: white;
+padding-top:6% ;
+font-family: 'Permanent Marker', cursive;
+}
+body{
+
+    background-color: black;
+}
+#submit{
+font-family: 'Permanent Marker', cursive;
+margin-left: 44%;
+}
