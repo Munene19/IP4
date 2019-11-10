@@ -3,10 +3,102 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/swiper.min.css">
+    <link href="https://fonts.googleapis.com/css?family=Permanent+Marker&display=swap" rel="stylesheet">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Document</title>
+    <title>Mike's pizza joint</title>
+    <h1>CHOOSE YOUR PREFERED PIZZA SIZE</h1>
 </head>
 <body>
+   <div id="select">
+<div class="swiper-container">
+            <div class="swiper-wrapper">
+                    <div class="swiper-slide">
+ 
+  <div class="card">
+    <div class="sliderText">
+       <h3>SUPER MEGA LARGE PIZZA</h3>
+    </div>
+                      <img src="images/pizza3.jpg" alt="super mega large pizza">
+<div class="content">
+    <a href= "#">SELECT</a>
+                        </div>
+
+                    </div>
+            </div>
+            <div class="swiper-slide">
+ 
+                <div class="card">
+                  <div class="sliderText">
+                     <h3>LARGE PIZZA</h3>           
+                  </div>
+                  <br>
+                  <br>
+                                    <img src="images/pizza6.jpg" alt="large pizza">
+              <div class="content">
+                  
+                  <a href= "#">SELECT</a>
+                                      </div>
+              
+                                  </div>
+                          </div>
+                          <div class="swiper-slide">
+ 
+                              <div class="card">
+                                <div class="sliderText">
+                                   <h3>MEDIUM PIZZA</h3>
+                                </div>
+                                <br>
+                                <br>
+                                                  <img src="images/pizza7.jpg" alt="medium pizza">
+                            <div class="content">
+                                
+                                <a href= "#">SELECT</a>
+                                                    </div>
+                            
+                                                </div>
+                                        </div>
+                                        <div class="swiper-slide">
+ 
+                                            <div class="card">
+                                              <div class="sliderText">
+                                                 <h3>SMALL PIZZA</h3>
+                                              </div>
+                                              <br>
+                                              <br>
+                                                                <img src="images/pizza4.jpg" alt="small pizza">
+                                          <div class="content">
+                                      
+                                              <a href= "#">SELECT</a>
+                                                                  </div>
+                                          
+                                                              </div>
+                                                      </div> 
+    </div>
+    </div>
     
+</div>
 </body>
+<script src="js/swiper.min.js"></script>
+<script>
+    var swiper = new Swiper('.swiper-container', {
+      effect: 'coverflow',
+      grabCursor: true,
+      centeredSlides: true,
+      slidesPerView: 'auto',
+      coverflowEffect: {
+        rotate: 50,
+        stretch: 0,
+        depth: 100,
+        modifier: 1,
+        slideShadows : true,
+      },
+      pagination: {
+        el: '.swiper-pagination',
+      },
+    });
+    </script>
+
 </html>
