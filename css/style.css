@@ -75,11 +75,13 @@ padding-right: 40%;
 font-family: 'Permanent Marker', cursive;
 margin-left: 44%;
 }
-.card img{
+.card img
+{
     height: 240px;
     width: 400px;
 }
-p{
+p
+{
     color: white;
 }
 a{
@@ -91,21 +93,20 @@ a{
         border: 2px solid white;
         color: white;
         font-weight: 900;
-       
 }
-.container{
+.container
+{
     font-family: 'Permanent Marker', cursive;
     color: white;
 }
-#custom{
+#custom
+{
     text-align: center;
 }
-nav{
-
+nav
+{
   text-align: left;
-  color: aqua;
- 
-  
+  color: aqua;  
 }
 #mlprice{
     color: blue;
