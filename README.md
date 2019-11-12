@@ -1,5 +1,5 @@
 # THEE MAVERICK'S PIZZA-JOINT
-## Screenshot
+## Screenshots
 
 <img src="images/landing.png">
  Landing page screenshot
@@ -7,6 +7,7 @@
  Super large pizza screenshot
 
 ## Description 
+A pizza delivery website.
 By Contributor **Mike Munene**
 ### live link: https://munene19.github.io/IP4/
 
