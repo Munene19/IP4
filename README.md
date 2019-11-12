@@ -13,8 +13,6 @@ By Contributor **Mike Munene**
 
 ## BDD
 
-## Setup/ Installation
-
 ## Contact Details and support
 For any queries and suggestions please contact Munenexv@gmail.com 
 ## License
