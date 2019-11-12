@@ -11,9 +11,9 @@ By Contributor **Mike Munene**
 
 ## Setup/ Installation
 
-<!-- ## Contact Details and support
+## Contact Details and support
 For any queries and suggestions please contact Munenexv@gmail.com 
-## License -->
+## License
 MIT License
 
 Copyright (c) 2019 Mike Munene
