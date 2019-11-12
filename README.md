@@ -1,11 +1,11 @@
 # THEE MAVERICK'S PIZZA-JOINT
 ## Screenshot
 
-<img src="landing.jpg">
+<img src="images/landing.png">
 
 ## Description 
 By Contributor **Mike Munene**
-### live link: https://munene19.github.io/IP4/
+<!-- ### live link: https://munene19.github.io/IP4/ -->
 
 ## BDD
 
