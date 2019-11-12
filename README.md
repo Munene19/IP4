@@ -2,9 +2,9 @@
 ## Screenshot
 
 <img src="images/landing.png">
-#### Landing page screenshot
+ Landing page screenshot
 <img src="images/superl.png">
-#### Super large pizza screenshot
+ Super large pizza screenshot
 
 ## Description 
 By Contributor **Mike Munene**
