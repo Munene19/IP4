@@ -1,6 +1,6 @@
 # THEE MAVERICK'S PIZZA-JOINT
 ## Screenshot
-
+<img src="images/superl.png">
 <img src="images/landing.png">
 #### Landing page screenshot
 ## Description 
