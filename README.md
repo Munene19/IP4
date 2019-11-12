@@ -1,8 +1,11 @@
 # THEE MAVERICK'S PIZZA-JOINT
 ## Screenshot
-<img src="images/superl.png">
+
 <img src="images/landing.png">
 #### Landing page screenshot
+<img src="images/superl.png">
+#### Super large pizza screenshot
+
 ## Description 
 By Contributor **Mike Munene**
 ### live link: https://munene19.github.io/IP4/
