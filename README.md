@@ -2,7 +2,7 @@
 ## Screenshot
 
 <img src="images/landing.png">
-
+#### Landing page screenshot
 ## Description 
 By Contributor **Mike Munene**
 ### live link: https://munene19.github.io/IP4/
